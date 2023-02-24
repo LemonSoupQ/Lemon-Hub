@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/LemonSoupQ/Universal-Aimbot/Lemon-UI-Library/UI%20Library.lua"))()
     local Window = Library.CreateLib("Universal-gui", "Sentinel")
  
     -- MAIN
