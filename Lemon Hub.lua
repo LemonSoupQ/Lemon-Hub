@@ -21,4 +21,7 @@ if game.PlaceId == 9872472334 then -- Evade
 end
 if game.PlaceId == 1962086868 then -- Tower of Hell
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Tower%20of%20Hell'),true))()
+end
+if game.PlaceId == 3351674303 then -- Driving Empire
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Driving%20Empire'),true))()
      end
