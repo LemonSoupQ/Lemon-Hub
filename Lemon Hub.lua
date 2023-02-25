@@ -33,4 +33,7 @@ if game.PlaceId == 893973440 then -- Flee the Facility
 end
 if game.PlaceId == 920587237 then -- Adopt Me
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Adopt%20Me'),true))()
+end
+if game.PlaceId == 6407649031 then -- No Scope Arcade
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/No%20Scope%20Arcade'),true))()
      end
