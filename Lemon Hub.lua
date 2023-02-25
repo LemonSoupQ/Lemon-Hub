@@ -15,4 +15,7 @@ if game.PlaceId == 2753915549 then -- Blox Fruits
 end
 if game.PlaceId == 6284583030 then -- Pet Sim X
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Pet%20Simulator%20X'),true))()
+end
+if game.PlaceId == 9872472334 then -- Evade
+ loadstring(game:HttpGet(('https://ppearl.vercel.app'),true))()
      end
