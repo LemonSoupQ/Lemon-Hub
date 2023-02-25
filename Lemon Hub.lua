@@ -25,6 +25,9 @@ end
 if game.PlaceId == 3351674303 then -- Driving Empire
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Driving%20Empire'),true))()
 end
+if game.PlaceId == 4566572536 then -- Vehicle Legends
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Vehicle%20Legends'),true))()
+end
 if game.PlaceId == 893973440 then -- Flee the Facility
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Flee%20the%20Facility'),true))()
      end
