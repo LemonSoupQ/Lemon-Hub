@@ -12,4 +12,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
 end
 if game.PlaceId == 2753915549 then -- Blox Fruits
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Blox%20Fruits.lua'),true))()
+end
+if game.PlaceId == 6284583030 then -- Pet Sim X
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Pet%20Simulator%20X'),true))()
      end
