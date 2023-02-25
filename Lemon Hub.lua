@@ -9,4 +9,7 @@ if game.PlaceId == 1345139196 then -- Treasure Hunt Simulator
 end
 if game.PlaceId == 292439477 then -- Phantom Forces
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Phantom%20Forces.lua'),true))()
+end
+if game.PlaceId == 2753915549 then -- Blox Fruits
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Blox%20Fruits.lua'),true))()
      end
