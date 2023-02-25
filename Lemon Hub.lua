@@ -30,4 +30,7 @@ if game.PlaceId == 4566572536 then -- Vehicle Legends
 end
 if game.PlaceId == 893973440 then -- Flee the Facility
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Flee%20the%20Facility'),true))()
+end
+if game.PlaceId == 920587237 then -- Adopt Me
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Adopt%20Me'),true))()
      end
