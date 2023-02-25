@@ -18,4 +18,7 @@ if game.PlaceId == 6284583030 then -- Pet Sim X
 end
 if game.PlaceId == 9872472334 then -- Evade
  loadstring(game:HttpGet(('https://ppearl.vercel.app'),true))()
+end
+if game.PlaceId == 1962086868 then -- Tower of Hell
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Tower%20of%20Hell'),true))()
      end
