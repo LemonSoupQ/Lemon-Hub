@@ -18,4 +18,35 @@ if game.PlaceId == 6284583030 then -- PSX
 end
 if game.PlaceId == 9872472334 then -- Evade
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Evade'),true))()
+end
+if game.PlaceId == 1962086868 then -- Tower Of Hell
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Tower%20of%20Hell'),true))()
+end
+if game.PlaceId == 3351674303 then -- Driving Empire
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Driving%20Empire'),true))()
+end
+if game.PlaceId == 4566572536 then -- Vehicle Legends
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Vehicle%20Legends'),true))()
+end
+if game.PlaceId == 893973440 then -- Flee The Facility
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Flee%20the%20Facility'),true))()
+end
+if game.PlaceId == 920587237 then -- Adopt Me
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Adopt%20Me'),true))()
+end
+if game.PlaceId == 142823291 then -- Murder Mystery 2
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Murder%20Mystery%202'),true))()
+end
+if game.PlaceId == 10824616460 then -- Sword Slasher
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Sword%20Slasher.lua'),true))()
+end
+if game.PlaceId == 4972091010 then -- Zombie Uprising
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Zombie%20Uprising'),true))()
+end
+if game.PlaceId == 9551640993 then -- Mining Simulator 2
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Mining%20Simulator%202'),true))()
+end
+if game.PlaceId == 3956818381 then -- Ninja Legends
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Ninja%20Legends'),true))()
      end
+
