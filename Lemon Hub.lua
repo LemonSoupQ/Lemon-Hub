@@ -17,8 +17,5 @@ if game.PlaceId == 6284583030 then -- PSX
   loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Pet%20Simulator%20X'),true))()
 end
 if game.PlaceId == 9872472334 then -- Evade
-  
-end
-if game.PlaceId == then
 
-end
+     end
