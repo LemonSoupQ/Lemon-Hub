@@ -36,4 +36,7 @@ if game.PlaceId == 920587237 then -- Adopt Me
 end 
 if game.PlaceId == 142823291 then -- Murder Mystery 2
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Murder%20Mystery%202'),true))()
+end
+if game.PlaceId == 10824616460 then -- Sword Slasher
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Sword%20Slasher.lua'),true))()
      end
