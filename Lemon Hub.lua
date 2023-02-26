@@ -48,5 +48,7 @@ if game.PlaceId == 9551640993 then -- Mining Simulator 2
 end
 if game.PlaceId == 3956818381 then -- Ninja Legends
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Ninja%20Legends'),true))()
+end
+if game.PlaceId == 606849621 then -- Jailbreak
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/JailBreak.lua'),true))()
      end
-
