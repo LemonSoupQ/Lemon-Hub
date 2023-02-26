@@ -39,4 +39,7 @@ if game.PlaceId == 142823291 then -- Murder Mystery 2
 end
 if game.PlaceId == 10824616460 then -- Sword Slasher
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Sword%20Slasher.lua'),true))()
+end
+if game.PlaceId == 4972091010 then -- Zombie Uprising
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Zombie%20Uprising'),true))()
      end
