@@ -42,6 +42,7 @@ if game.PlaceId == 10824616460 then -- Sword Slasher
 end
 if game.PlaceId == 4972091010 then -- Zombie Uprising
  loadstring(game:HttpGet('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Zombie%20Uprising'),true))()
+end
 if game.PlaceId == 9551640993 then -- Mining Simulator 2
  loadstring(game:HttpGet('https://ppearl.vercel.app'),true))()
 end
