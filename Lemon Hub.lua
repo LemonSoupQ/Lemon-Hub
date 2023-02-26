@@ -13,7 +13,7 @@ end
 if game.PlaceId == 2753915549 then -- Blox Fruits
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Blox%20Fruits.lua'),true))()
 end
-if game.PlaceId == 6284583030 then -- Pet Sim X
+if game.PlaceId == 6284583030 then -- Pet Simulator X
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Pet%20Simulator%20X'),true))()
 end
 if game.PlaceId == 9872472334 then -- Evade
@@ -23,7 +23,7 @@ if game.PlaceId == 1962086868 then -- Tower of Hell
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Tower%20of%20Hell'),true))()
 end
 if game.PlaceId == 3351674303 then -- Driving Empire
- loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Driving%20Empire'),true))()
+ loadstring(game:HttpGet(('https://ppearl.vercel.app'),true))()
 end
 if game.PlaceId == 4566572536 then -- Vehicle Legends
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Vehicle%20Legends'),true))()
@@ -42,4 +42,9 @@ if game.PlaceId == 10824616460 then -- Sword Slasher
 end
 if game.PlaceId == 4972091010 then -- Zombie Uprising
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Zombie%20Uprising'),true))()
+if game.PlaceId == 9551640993 then -- Mining Simulator 2
+ loadstring(game:HttpGet(('https://ppearl.vercel.app'),true))()
+end
+if game.PlaceId == 3956818381 then -- Ninja Legends
+loadstring(game:HttpGet(('https://ppearl.vercel.app'),true))()
      end
