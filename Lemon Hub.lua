@@ -46,5 +46,5 @@ if game.PlaceId == 9551640993 then -- Mining Simulator 2
  loadstring(game:HttpGet(('https://ppearl.vercel.app'),true))()
 end
 if game.PlaceId == 3956818381 then -- Ninja Legends
-loadstring(game:HttpGet(('https://ppearl.vercel.app'),true))()
+ loadstring(game:HttpGet(('https://ppearl.vercel.app'),true))()
      end
