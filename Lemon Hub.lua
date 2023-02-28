@@ -57,4 +57,7 @@ if game.PlaceId == 10818219590 then -- How Far Can You Throw?
 end
 if game.PlaceId == 4639625707 then -- War Tycoon
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/War%20Tycoon'),true))()
+end
+if game.PlaceId == 1224212277 then -- Mad City
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Mad%20City'),true))()
      end
