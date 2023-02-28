@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Vortex194/main/main/oilwarfare", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/War%20Tycoon%20Code'))()
