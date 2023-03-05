@@ -60,4 +60,7 @@ if game.PlaceId == 4639625707 then -- War Tycoon
 end
 if game.PlaceId == 1224212277 then -- Mad City
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Mad%20City'),true))()
+end
+if game.PlaceId == 11729688377 then -- Booga Booga Reborn
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Booga%20Booga%20Reborn'),true))()
      end
