@@ -4,7 +4,10 @@ end
 if game.PlaceId == 301549746 then -- Counter Blox
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Counter%20Blox.lua'),true))()
 end
-if game.PlaceId == 1345139196 then -- Treasure hunt simulator
+if game.PlaceId == 148042432 then -- Counter Blox Competitive
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Counter%20Blox.lua'),true))()
+end
+ if game.PlaceId == 1345139196 then -- Treasure hunt simulator
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/LemonSoupQ/Lemon-Hub/Lemon-hub/Treasure%20Hunt%20Simulator.lua'),true))()
 end
 if game.PlaceId == 292439477 then -- Phantom Forces
